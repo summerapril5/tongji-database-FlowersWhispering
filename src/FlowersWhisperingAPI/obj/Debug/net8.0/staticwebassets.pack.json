@@ -1,0 +1,141 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\css\\app.c5f0d080.css",
+      "PackagePath": "staticwebassets\\css\\app.c5f0d080.css"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\fonts\\Caveat-VariableFont_wght.2155d74c.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Caveat-VariableFont_wght.2155d74c.ttf"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\fonts\\ZhiMangXing-Regular.52d7aca4.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ZhiMangXing-Regular.52d7aca4.ttf"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\admin.cd612869.png",
+      "PackagePath": "staticwebassets\\img\\admin.cd612869.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\alipay.09dbd0f1.png",
+      "PackagePath": "staticwebassets\\img\\alipay.09dbd0f1.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\background.0f5a3494.png",
+      "PackagePath": "staticwebassets\\img\\background.0f5a3494.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\backgroundtry.005adc4f.png",
+      "PackagePath": "staticwebassets\\img\\backgroundtry.005adc4f.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\book.aed6ffcd.png",
+      "PackagePath": "staticwebassets\\img\\book.aed6ffcd.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\button1.5b9c7e27.png",
+      "PackagePath": "staticwebassets\\img\\button1.5b9c7e27.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\button2.0bbd6a27.png",
+      "PackagePath": "staticwebassets\\img\\button2.0bbd6a27.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\button3.6fc083ef.png",
+      "PackagePath": "staticwebassets\\img\\button3.6fc083ef.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\community.e1afe2ba.png",
+      "PackagePath": "staticwebassets\\img\\community.e1afe2ba.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\contribution-background.d853be95.jpg",
+      "PackagePath": "staticwebassets\\img\\contribution-background.d853be95.jpg"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\error_background.6cc4ce89.jpg",
+      "PackagePath": "staticwebassets\\img\\error_background.6cc4ce89.jpg"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\ground.f0de59b1.jpg",
+      "PackagePath": "staticwebassets\\img\\ground.f0de59b1.jpg"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\plant_book.fd0cfcf4.png",
+      "PackagePath": "staticwebassets\\img\\plant_book.fd0cfcf4.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\plant_example.347c2e44.jpg",
+      "PackagePath": "staticwebassets\\img\\plant_example.347c2e44.jpg"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\plant_tool.34df2c55.png",
+      "PackagePath": "staticwebassets\\img\\plant_tool.34df2c55.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\return_icon.46f2a8a3.png",
+      "PackagePath": "staticwebassets\\img\\return_icon.46f2a8a3.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\search_logo.7525d7ba.png",
+      "PackagePath": "staticwebassets\\img\\search_logo.7525d7ba.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\sidebar.633e4262.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar.633e4262.jpg"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\user-avatar.597b32ab.jpg",
+      "PackagePath": "staticwebassets\\img\\user-avatar.597b32ab.jpg"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\img\\wechat.09d5f844.png",
+      "PackagePath": "staticwebassets\\img\\wechat.09d5f844.png"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\js\\app.8eb898b7.js",
+      "PackagePath": "staticwebassets\\js\\app.8eb898b7.js"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\js\\app.8eb898b7.js.map",
+      "PackagePath": "staticwebassets\\js\\app.8eb898b7.js.map"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\js\\chunk-vendors.bafaa8c3.js",
+      "PackagePath": "staticwebassets\\js\\chunk-vendors.bafaa8c3.js"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\js\\chunk-vendors.bafaa8c3.js.map",
+      "PackagePath": "staticwebassets\\js\\chunk-vendors.bafaa8c3.js.map"
+    },
+    {
+      "Id": "F:\\FlowersWhispering\\src\\FlowersWhisperingAPI\\wwwroot\\media\\background.9ff7d69b.mp4",
+      "PackagePath": "staticwebassets\\media\\background.9ff7d69b.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FlowersWhisperingAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FlowersWhisperingAPI.props",
+      "PackagePath": "build\\FlowersWhisperingAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FlowersWhisperingAPI.props",
+      "PackagePath": "buildMultiTargeting\\FlowersWhisperingAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FlowersWhisperingAPI.props",
+      "PackagePath": "buildTransitive\\FlowersWhisperingAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

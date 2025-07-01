@@ -1,0 +1,35 @@
+{
+  "name": "flowerswhispering",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^1.7.5",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.8.0",
+    "i": "^0.3.7",
+    "mitt": "^3.0.1",
+    "vue": "^3.4.38",
+    "vue-router": "^4.4.2",
+    "vue3-video-play": "^1.3.2",
+    "vuex": "^4.1.0",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.170",
+    "@types/node": "^22.5.0",
+    "@types/webpack-env": "^1.18.5",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "sass": "^1.77.8",
+    "sass-loader": "^16.0.0",
+    "typescript": "^5.5.4"
+  }
+}
